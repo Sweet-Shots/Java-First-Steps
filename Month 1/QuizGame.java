@@ -1,3 +1,16 @@
+/*
+ * ⚠️ FULLY AI-GENERATED FILE ⚠️
+ *
+ * This entire file was generated using AI as part of my Java learning process.
+ *
+ * It is included for:
+ * - Understanding how Java code is structured
+ * - Learning how logic and syntax work in practice
+ * - Comparing future improvements against generated examples
+ *
+ * This file may be replaced or rewritten later with my own implementation.
+ */
+
 import java.util.Scanner;  // lets us read what the user types
 
 public class QuizGame {  // the class name must match the file name
