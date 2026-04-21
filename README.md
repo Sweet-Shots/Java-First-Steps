@@ -28,11 +28,17 @@ These files are clearly marked at the top of each file so it is always obvious w
 
 They are included for:
 
-Learning how code works
+Learning how code works  
+Understanding structure and logic  
+Helping me transition into writing my own versions later  
 
-Understanding structure and logic
+---
 
-Helping me transition into writing my own versions later
+## Usage
+
+You are free to **view, use, and learn from any code in this repository**.
+
+This project is meant to help both myself and others understand Java, so feel free to take ideas or adapt code for your own learning.
 
 ---
 
