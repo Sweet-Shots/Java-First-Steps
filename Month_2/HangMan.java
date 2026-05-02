@@ -11,6 +11,8 @@
  * This file may be replaced or rewritten later with my own implementation.
  */
 
+package Month_2;
+
 import java.util.Scanner;  // lets us read what the user types
 import java.util.Random;  // lets us pick random numbers
 import java.util.ArrayList;  // lets us use ArrayList (dynamic list that can grow)
@@ -20,7 +22,7 @@ public class HangMan {  // the class name must match the file name
         Scanner scanner = new Scanner(System.in);  // tool to read user input
         Random random = new Random();  // tool for random numbers
 
-        String[] words = {"Today", "Mouse", "Computer", "Screen"};  // list of words to pick from
+        String[] words = {"Today", "Mouse", "Computer", "Screen", "Jaylen", "Dog", "Cat", "Human", "House", "Test", "Car", "Tree", "Word", "Java", "Python", "Programming", "Money"};  // list of words to pick from
         String secretWord = pickWord(random, words);  // pick a random word
         secretWord = secretWord.toLowerCase();  // convert to lowercase so "Mouse" becomes "mouse"
 

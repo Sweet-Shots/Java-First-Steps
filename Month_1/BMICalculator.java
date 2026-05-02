@@ -1,3 +1,5 @@
+package Month_1;
+
 import java.util.Scanner;  // lets us read what the user types
 
 public class BMICalculator {  // the class name must match the file name
