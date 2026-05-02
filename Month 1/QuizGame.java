@@ -1,4 +1,3 @@
-package Month_1;
 /*
  * ⚠️ FULLY AI-GENERATED FILE ⚠️
  *

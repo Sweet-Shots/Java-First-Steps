@@ -11,8 +11,6 @@
  * This file may be replaced or rewritten later with my own implementation.
  */
 
-package Month_2;
-
 import java.util.ArrayList;  // lets us use ArrayList (dynamic list that can grow)
 import java.util.Scanner;  // lets us read what the user types
 

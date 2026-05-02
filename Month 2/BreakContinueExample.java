@@ -1,5 +1,3 @@
-package Month_2;
-
 public class BreakContinueExample {  // the class name must match the file name
     public static void main(String[] args) {  // this is where the program starts
         for (int i = 1; i <= 10; i++) {  // loop from 1 to 10

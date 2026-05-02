@@ -1,4 +1,3 @@
-
 /*
  * ⚠️ FULLY AI-GENERATED FILE ⚠️
  *
@@ -12,12 +11,13 @@
  * This file may be replaced or rewritten later with my own implementation.
  */
 
-package Month_1;
-
 import java.util.Scanner;  // lets us read user input
 import java.util.Random;  // lets us pick random numbers
 
 public class GuessTheNumber {
+    {
+        System.out.println("klrfgbkhbjk");
+    }
     public static void main(String[] args) {
         Random random = new Random();    // tool for making random numbers
         Scanner scanner = new Scanner(System.in);  // tool for reading what you type
