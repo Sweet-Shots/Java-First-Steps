@@ -11,6 +11,8 @@
  * This file may be replaced or rewritten later with my own implementation.
  */
 
+package month1;
+
 import java.util.ArrayList;
 
 public class ArrayExamples {

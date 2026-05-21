@@ -1,3 +1,5 @@
+package month1;
+
 import java.util.Scanner;  // lets us read what the user types
 
 public class TipCalculator {  // the class name must match the file name

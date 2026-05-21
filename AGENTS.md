@@ -1,4 +1,4 @@
-# OpenCode Rules
+# AI Rules
 
 ## 1. Skill: Learning Mode & Beginner Comments
 When I ask to add comments or explain code:

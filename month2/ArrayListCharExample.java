@@ -1,3 +1,5 @@
+package month2;
+
 import java.util.ArrayList;  // lets us use ArrayList (dynamic list that can grow)
 import java.util.Scanner;  // lets us read what the user types
 

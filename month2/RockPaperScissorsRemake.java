@@ -1,7 +1,9 @@
+package month2;
+
 import java.util.Scanner;  // lets us read what the user types
 import java.util.Random;  // lets us pick random numbers
 
-public class RockPaperScissors {  // the class name must match the file name
+public class RockPaperScissorsRemake {  // the class name must match the file name
     public static void main(String[] args) {  // this is where the program starts
         Scanner scanner = new Scanner(System.in);  // tool to read user input
         Random random = new Random();  // tool for random numbers

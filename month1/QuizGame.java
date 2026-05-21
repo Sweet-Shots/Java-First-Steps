@@ -11,6 +11,8 @@
  * This file may be replaced or rewritten later with my own implementation.
  */
 
+package month1;
+
 import java.util.Scanner;  // lets us read what the user types
 
 public class QuizGame {  // the class name must match the file name

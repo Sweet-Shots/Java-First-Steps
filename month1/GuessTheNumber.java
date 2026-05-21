@@ -11,6 +11,8 @@
  * This file may be replaced or rewritten later with my own implementation.
  */
 
+package month1;
+
 import java.util.Scanner;  // lets us read user input
 import java.util.Random;  // lets us pick random numbers
 

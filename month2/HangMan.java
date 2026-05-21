@@ -1,3 +1,5 @@
+package month2;
+
 /*
  * ⚠️ FULLY AI-GENERATED FILE ⚠️
  *

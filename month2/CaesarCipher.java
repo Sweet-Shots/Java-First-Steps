@@ -1,3 +1,5 @@
+package month2;
+
 import java.util.Scanner;  // lets us read what the user types
 
 public class CaesarCipher {  // the class name must match the file name

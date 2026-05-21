@@ -1,3 +1,5 @@
+package month2;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Random;
