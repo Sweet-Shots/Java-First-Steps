@@ -20,15 +20,16 @@ public class ToDoList {
         System.out.println("--- ToDoList Choices---");
         System.out.println("1. New Item");
         System.out.println("2. Toggle Compleation");
-        System.out.println("3. Exit");
+        System.out.println("3. Exit\n");
         System.out.println("--- To-Do ---");
+        if (items.size() <= 0) {System.out.println("No items to do! Maybe get started by adding one!");}
         for (int i = 0; i < items.size(); i++) {
-            System.out.println(items.get(i).getDisplay());
+            System.out.println((i + 1) + ". " + items.get(i).getDisplay());
         }
     }
 
     public void handleChoice() {
-        System.out.print("Choice: ");
+        System.out.print("Choice (e.g: 1): ");
         int choice = scanner.nextInt();
         scanner.nextLine();
         if (choice == 1) {addItem();}
