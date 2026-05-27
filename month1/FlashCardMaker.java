@@ -30,7 +30,7 @@ public class FlashCardMaker {  // the class name must match the file name
                 flashCardsAnswers.add(answer);  // add answer to the list
             }
         }
-        System.out.println("\n".repeat(50));  // clear the screen
+        System.out.println("\n");  // clear the screen
 
         int question = 0;  // start at the first question (index 0)
         int total = flashCardsQuestions.size();  // how many questions they made
