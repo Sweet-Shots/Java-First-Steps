@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -version)",
+      "Bash(javac -version)",
+      "Bash(javac month1/HelloWorld.java)",
+      "Bash(javac month3/FileIONew.java)",
+      "Bash(java month3.FileIONew)",
+      "Bash(which java *)",
+      "Read(//home/douglasharvey/.sdkman/candidates/**)",
+      "Bash(java month3/FileIONew.java)",
+      "Bash(curl -s \"https://search.maven.org/solrsearch/select?q=g:com.google.code.gson+AND+a:gson&core=gav&rows=1&wt=json\")",
+      "Bash(curl -s -L -o lib/gson-2.14.0.jar \"https://repo1.maven.org/maven2/com/google/code/gson/gson/2.14.0/gson-2.14.0.jar\")",
+      "Bash(java -cp \"lib/gson-2.14.0.jar\" \"/tmp/claude-1000/-home-douglasharvey-Documents-GitHub-Java-First-Steps/f8943a7d-0b3f-477a-80e7-a7d81133bed5/scratchpad/GsonTest.java\")"
+    ]
+  }
+}
